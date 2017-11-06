@@ -7,9 +7,15 @@ DXL client in GoLang
 
 This a OpenDXL client written in GoLang.
 
-## Installation.
+## Installation
 
 > go get github.com/SecurityDo/dxl_golang
+
+## Other dependencies
+
+> go get github.com/eclipse/paho.mqtt.golang
+> go get github.com/nu7hatch/gouuid
+> go get gopkg.in/vmihailenco/msgpack.v2
 
 ## Documentation
 
