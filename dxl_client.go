@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	mqtt_client "mqtt"
+	mqtt_client "github.com/SecurityDo/dxl_golang/mqtt"
 
 	mq "github.com/eclipse/paho.mqtt.golang"
 	uuid "github.com/nu7hatch/gouuid"
