@@ -1,0 +1,12 @@
+# This is a placeholder directory for the example config files
+
+# To run the provided examples, the following configuration files should be placed here:
+
+ brokercerts.crt
+ client.crt
+ client.key
+
+# Refer to the OpenDXL documentation on how to generate/obtain these files
+
+# (In the examples, the DXL broker is located at 192.168.2.104, using port 8883.)
+
